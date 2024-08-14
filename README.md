@@ -31,8 +31,6 @@ g++ -o admin_management main.cpp
 This will generate an executable named admin_management.
 
 Usage
-To run the Admin Management System:
-
 Execute the Program
 
 bash
