@@ -44,13 +44,20 @@ Execute the Program
 ## bash
 Copy code
 ./admin_management
+
+
 Follow the On-Screen Prompts
 
-Add New Student: Enter student roll number, name, and age.
-Display All Students: View all student records.
-Search for a Student: Enter the roll number to find a specific student.
-Update Student Information: Choose an option to update roll number, name, age, or all details.
-Delete Student Record: Enter the name of the student to delete their record.
+Add New Student: 
+Enter student roll number, name, and age.
+Display All Students: 
+View all student records.
+Search for a Student: 
+Enter the roll number to find a specific student.
+Update Student Information: 
+Choose an option to update roll number, name, age, or all details.
+Delete Student Record: 
+Enter the name of the student to delete their record.
 Code Structure
 main.cpp: Contains the main application logic and user interface.
 Student class: Defines the Student class with methods to manage student data.
