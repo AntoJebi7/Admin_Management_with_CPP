@@ -1,0 +1,5 @@
+Related Article
+For a comprehensive guide and deeper insights into the development of the Student Management System project, please refer to the Hashnode article here. 
+https://antojebikshan.hashnode.dev/building-a-simple-student-management-system-in-c-a-beginners-guide
+This article provides a thorough walkthrough of the entire coding process, starting from the initial setup and class design to implementing key functionalities like adding, displaying, searching, updating, and deleting student records. It delves into the rationale behind the code, explains how different components work together, and highlights best practices for C++ programming. Additionally, the article features color-coded output explanations and dynamic data structure usage, offering a practical understanding of how to build a console-based application with C++. Reading this article will enhance your knowledge of C++ and provide you with valuable skills for future programming projects. Make sure to check it out to see the complete picture and gather useful tips for your own coding endeavors.
+
