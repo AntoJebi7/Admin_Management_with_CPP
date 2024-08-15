@@ -1,5 +1,6 @@
 # Admin Management with CPP for Students in University
-
+Full Article 
+https://antojebikshan.hashnode.dev/building-a-simple-student-management-system-in-c-a-beginners-guide
 ## Overview
 
 **Admin Management with CPP for Students in University** is a mini prototype student management system built using C++. This terminal-based application is designed to manage student records efficiently and provides a basic set of features. The project is currently under development and will be updated with additional features in the future.
